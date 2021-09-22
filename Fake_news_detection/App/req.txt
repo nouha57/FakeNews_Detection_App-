@@ -1,0 +1,6 @@
+Flask
+sklearn 
+json
+pandas
+nltk
+scikit-learn==0.22.1
